@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorQuantizer2D", "VectorQuantizer2D\VectorQuantizer2D.csproj", "{435CA2E9-C879-4145-854E-557C79F90C81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorQuantizer2DTestApp", "VectorQuantizer2DTestApp\VectorQuantizer2DTestApp.csproj", "{B80B9E3C-4706-4020-910F-D4C71DC19267}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{435CA2E9-C879-4145-854E-557C79F90C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435CA2E9-C879-4145-854E-557C79F90C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435CA2E9-C879-4145-854E-557C79F90C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435CA2E9-C879-4145-854E-557C79F90C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B80B9E3C-4706-4020-910F-D4C71DC19267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80B9E3C-4706-4020-910F-D4C71DC19267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80B9E3C-4706-4020-910F-D4C71DC19267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80B9E3C-4706-4020-910F-D4C71DC19267}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
